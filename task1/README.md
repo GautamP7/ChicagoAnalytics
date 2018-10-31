@@ -27,6 +27,6 @@ Report the types of crime (Assault, Battery, etc) within 3 blocks of (a) Grocery
 
 #### Files
 ----
-Data files - `Crimes.csv`, `Grocery_Stores.csv`, `Restaurants.csv`, `Schools.csv`
-Code - `report_crime.py`
+Data files - `Crimes.csv`, `Grocery_Stores.csv`, `Restaurants.csv`, `Schools.csv`  
+Code - `report_crime.py`  
 Output file - `Crime_Report.csv`
