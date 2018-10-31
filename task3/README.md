@@ -25,6 +25,6 @@ What is the viability of a business, i.e., how long is a business active, after 
 
 #### Files
 ----
-Data files - `Food_Inspections.csv`, `Food_Inspections_Sorted.csv`
-Code - `business_Viability.py`
+Data files - `Food_Inspections.csv`, `Food_Inspections_Sorted.csv`  
+Code - `business_Viability.py`  
 Output file - `Business_Viability.csv`
